@@ -9,13 +9,13 @@ C:\Program Files\Unity\Hub\Editor\2020.3.18f1\Editor\2021.3.2f1\Editor\Unity.exe
 -batchMode
 -noUpm
 -name
-AssetImportWorker3
+AssetImportWorker0
 -projectPath
 C:/Users/Administrator/Desktop/민재/Unity-Class/Class
 -logFile
-Logs/AssetImportWorker3.log
+Logs/AssetImportWorker0.log
 -srvPort
-55384
+49829
 Successfully changed project path to: C:/Users/Administrator/Desktop/민재/Unity-Class/Class
 C:/Users/Administrator/Desktop/민재/Unity-Class/Class
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
@@ -47,7 +47,7 @@ C:/Users/Administrator/Desktop/민재/Unity-Class/Class
     "memorysetup-temp-allocator-size-cloud-worker=32768"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
-Refreshing native plugins compatible for Editor in 77.64 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 67.62 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2021.3.2f1 (d6360bedb9a0)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.18f1/Editor/2021.3.2f1/Editor/Data/Resources/UnitySubsystems
@@ -63,37 +63,37 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.18f1/Editor/2021.3.2f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.18f1/Editor/2021.3.2f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.18f1/Editor/2021.3.2f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56404
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56328
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.18f1/Editor/2021.3.2f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.003445 seconds.
+Registered in 0.003460 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 68.53 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 69.02 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.519 seconds
+- Completed reload, in  0.529 seconds
 Domain Reload Profiling:
-	ReloadAssembly (519ms)
-		BeginReloadAssembly (58ms)
+	ReloadAssembly (530ms)
+		BeginReloadAssembly (60ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (1ms)
-		EndReloadAssembly (373ms)
-			LoadAssemblies (57ms)
+		EndReloadAssembly (380ms)
+			LoadAssemblies (58ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (84ms)
+			SetupTypeCache (90ms)
 			ReleaseScriptCaches (0ms)
 			RebuildScriptCaches (27ms)
-			SetupLoadedEditorAssemblies (222ms)
+			SetupLoadedEditorAssemblies (220ms)
 				LogAssemblyErrors (0ms)
 				InitializePlatformSupportModulesInManaged (6ms)
 				SetLoadedEditorAssemblies (0ms)
 				RefreshPlugins (69ms)
 				BeforeProcessingInitializeOnLoad (1ms)
-				ProcessInitializeOnLoadAttributes (106ms)
+				ProcessInitializeOnLoadAttributes (104ms)
 				ProcessInitializeOnLoadMethodAttributes (39ms)
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
@@ -101,37 +101,37 @@ Domain Reload Profiling:
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.003291 seconds.
+Registered in 0.003323 seconds.
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image C:\Users\Administrator\Desktop\민재\Unity-Class\Class\Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
 Symbol file LoadedFromMemory doesn't match image C:\Users\Administrator\Desktop\민재\Unity-Class\Class\Library\PackageCache\com.unity.visualscripting@1.7.6\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.51 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 0.53 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.861 seconds
+- Completed reload, in  0.854 seconds
 Domain Reload Profiling:
-	ReloadAssembly (862ms)
-		BeginReloadAssembly (92ms)
+	ReloadAssembly (855ms)
+		BeginReloadAssembly (89ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (5ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (17ms)
-		EndReloadAssembly (676ms)
-			LoadAssemblies (65ms)
+			CreateAndSetChildDomain (16ms)
+		EndReloadAssembly (674ms)
+			LoadAssemblies (64ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (224ms)
+			SetupTypeCache (216ms)
 			ReleaseScriptCaches (1ms)
 			RebuildScriptCaches (45ms)
-			SetupLoadedEditorAssemblies (309ms)
+			SetupLoadedEditorAssemblies (315ms)
 				LogAssemblyErrors (0ms)
 				InitializePlatformSupportModulesInManaged (5ms)
 				SetLoadedEditorAssemblies (0ms)
 				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (76ms)
-				ProcessInitializeOnLoadAttributes (199ms)
-				ProcessInitializeOnLoadMethodAttributes (24ms)
+				BeforeProcessingInitializeOnLoad (79ms)
+				ProcessInitializeOnLoadAttributes (201ms)
+				ProcessInitializeOnLoadMethodAttributes (25ms)
 				AfterProcessingInitializeOnLoad (4ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
@@ -140,12 +140,12 @@ Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
 Launched and connected shader compiler UnityShaderCompiler.exe after 0.02 seconds
-Refreshing native plugins compatible for Editor in 0.47 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 0.46 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3368 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 26 unused Assets / (112.8 KB). Loaded Objects now: 3830.
-Memory consumption went from 117.2 MB to 117.1 MB.
-Total: 3.664500 ms (FindLiveObjects: 0.652500 ms CreateObjectMapping: 0.404400 ms MarkObjects: 2.502500 ms  DeleteObjects: 0.103800 ms)
+Unloading 3369 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 26 unused Assets / (112.7 KB). Loaded Objects now: 3833.
+Memory consumption went from 117.3 MB to 117.2 MB.
+Total: 2.669600 ms (FindLiveObjects: 0.282200 ms CreateObjectMapping: 0.183300 ms MarkObjects: 2.119900 ms  DeleteObjects: 0.083500 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
@@ -159,94 +159,88 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  Time since last request: 2783.929235 seconds.
-  path: Assets/JellyMonsters/Models/BlueModel.fbx
-  artifactKey: Guid(36aaf28fdb2e04b498b7242a49acf5eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/JellyMonsters/Models/BlueModel.fbx using Guid(36aaf28fdb2e04b498b7242a49acf5eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4d9cbe24180cd23338d2a99915b1223') in 0.223520 seconds 
+  Time since last request: 3833.666586 seconds.
+  path: Assets/Materials/sumatran-tiger-g239a2955f_1920.mat
+  artifactKey: Guid(07fe4366acc210545964ab20936700e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/sumatran-tiger-g239a2955f_1920.mat using Guid(07fe4366acc210545964ab20936700e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a40a8742ad6d790beb454187f7b8ad44') in 0.109254 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000035 seconds.
-  path: Assets/JellyMonsters/Models/PurpleModel.fbx
-  artifactKey: Guid(74a6c52bc2e330948b03c27a7cd2d481) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/JellyMonsters/Models/PurpleModel.fbx using Guid(74a6c52bc2e330948b03c27a7cd2d481) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f808a0d47ac761830df5dfca4d85d0b3') in 0.018705 seconds 
+  Time since last request: 26.986024 seconds.
+  path: Assets/Homeless/UI Assets/Item_Icons
+  artifactKey: Guid(44d9e602fa6308f4ca47e2290c470cbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Homeless/UI Assets/Item_Icons using Guid(44d9e602fa6308f4ca47e2290c470cbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f81627cf60444bc14ba8d8d2ae2b872d') in 0.005526 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000030 seconds.
-  path: Assets/Kawaii Slime/Models/Slimes/Slime_01.fbx
-  artifactKey: Guid(9981a4f80fb95b04fb9d36e07baa17cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Kawaii Slime/Models/Slimes/Slime_01.fbx using Guid(9981a4f80fb95b04fb9d36e07baa17cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88a60a3ed8acc301c52c7f521a6ae99a') in 0.055872 seconds 
+  Time since last request: 0.056936 seconds.
+  path: Assets/Homeless/UI Assets/Item_Icons/UI_Icon_Apple.png
+  artifactKey: Guid(adaac68d8e5d693499597113889d11d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Homeless/UI Assets/Item_Icons/UI_Icon_Apple.png using Guid(adaac68d8e5d693499597113889d11d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f156ad287cdb729794814c0c7a3cccef') in 0.045868 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000032 seconds.
-  path: Assets/Kawaii Slime/Models/Top/Sprout.fbx
-  artifactKey: Guid(be4fadb40c54934419fd624cd0021acf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Kawaii Slime/Models/Top/Sprout.fbx using Guid(be4fadb40c54934419fd624cd0021acf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc0502feebb0dd98149885e3ef81f00a') in 0.018604 seconds 
+  Time since last request: 0.000016 seconds.
+  path: Assets/Homeless/UI Assets/Item_Icons/UI_Icon_Fish.png
+  artifactKey: Guid(720ac4fdbef3a144cb48fa9a4e18f746) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Homeless/UI Assets/Item_Icons/UI_Icon_Fish.png using Guid(720ac4fdbef3a144cb48fa9a4e18f746) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d1b2d649047f6f2fb6989da676e8351') in 0.016167 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/Homeless/UI Assets/Item_Icons/UI_Icon_Clover_Leaf.png
+  artifactKey: Guid(7524ab7a7f453474dbfc0e05e8b92539) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Homeless/UI Assets/Item_Icons/UI_Icon_Clover_Leaf.png using Guid(7524ab7a7f453474dbfc0e05e8b92539) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55c9e7824a5e16348c3fc7060bc394d9') in 0.021121 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Homeless/UI Assets/Item_Icons/UI_Icon_bomb.png
+  artifactKey: Guid(b8ee956496fbb764e91b82651871348e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Homeless/UI Assets/Item_Icons/UI_Icon_bomb.png using Guid(b8ee956496fbb764e91b82651871348e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bcf3a31e6efd2bc2ef9b27219ccfae7e') in 0.021942 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Homeless/UI Assets/Item_Icons/UI_Icon_Gas.png
+  artifactKey: Guid(2c6b152263244e940b53e79d232a085e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Homeless/UI Assets/Item_Icons/UI_Icon_Gas.png using Guid(2c6b152263244e940b53e79d232a085e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f21509c6b23e8a4d60d7f5d2f841c72') in 0.017302 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Homeless/UI Assets/Item_Icons/UI_Icon_Bread.png
+  artifactKey: Guid(9a82544a4e8ea82448062dac5853f931) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Homeless/UI Assets/Item_Icons/UI_Icon_Bread.png using Guid(9a82544a4e8ea82448062dac5853f931) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c331fa9d28f451e710286c90eeccf56') in 0.017551 seconds 
 ========================================================================
 Received Import Request.
   Time since last request: 0.000028 seconds.
-  path: Assets/Kawaii Slime/Models/Slimes/Slime_02.fbx
-  artifactKey: Guid(056784e08510fd1478dd0ae22b90765b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Kawaii Slime/Models/Slimes/Slime_02.fbx using Guid(056784e08510fd1478dd0ae22b90765b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1166d15d702bb620a9324817b341d22a') in 0.032003 seconds 
+  path: Assets/Homeless/UI Assets/Item_Icons/UI_Icon_Potion_4.png
+  artifactKey: Guid(c2e882058c776c244adf87fa24d5282f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Homeless/UI Assets/Item_Icons/UI_Icon_Potion_4.png using Guid(c2e882058c776c244adf87fa24d5282f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39f775fe15295f23fbe6972d671c4b13') in 0.017577 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000019 seconds.
-  path: Assets/JellyMonsters/Models/OrangeModel.fbx
-  artifactKey: Guid(0db5bd3cac02cd148946cbc4aa488b29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/JellyMonsters/Models/OrangeModel.fbx using Guid(0db5bd3cac02cd148946cbc4aa488b29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d6974a6d1d632a13447d3d44159963e') in 0.022747 seconds 
+  Time since last request: 0.000017 seconds.
+  path: Assets/Homeless/UI Assets/Item_Icons/UI_Icon_Potion_1.png
+  artifactKey: Guid(720936d3887635548b5eca76a7978798) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Homeless/UI Assets/Item_Icons/UI_Icon_Potion_1.png using Guid(720936d3887635548b5eca76a7978798) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ea73798454b42cd397ba0eea7aecded') in 0.017526 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000045 seconds.
-  path: Assets/Kawaii Slime/Models/Top/MetalHelmet.fbx
-  artifactKey: Guid(de4b5f1ab048d034990ce739a01d7544) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Kawaii Slime/Models/Top/MetalHelmet.fbx using Guid(de4b5f1ab048d034990ce739a01d7544) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c89542486a33d524a829b597c84d266f') in 0.022702 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 2.732314 seconds.
-  path: Assets/Kawaii Slime/Materials/Ground.mat
-  artifactKey: Guid(d6d82eb17fc82634590c56e637cee518) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Kawaii Slime/Materials/Ground.mat using Guid(d6d82eb17fc82634590c56e637cee518) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40e1fc3d46e43fa914ccaea501bd153a') in 0.195350 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 1.498399 seconds.
-  path: Assets/Kawaii Slime/Materials/Face/Face 0.mat
-  artifactKey: Guid(c12dba4db4b10a34ea85b03c5b9263e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Kawaii Slime/Materials/Face/Face 0.mat using Guid(c12dba4db4b10a34ea85b03c5b9263e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2cf119d2079ac40fae4031a0627bc3b8') in 0.018092 seconds 
+  Time since last request: 0.000016 seconds.
+  path: Assets/Homeless/UI Assets/Item_Icons/UI_Icon_Meat_2.png
+  artifactKey: Guid(76caf5e4ca559764484493b1342b0952) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Homeless/UI Assets/Item_Icons/UI_Icon_Meat_2.png using Guid(76caf5e4ca559764484493b1342b0952) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a427edcc16c3e729766e431c7e019aa') in 0.027217 seconds 
 ========================================================================
 Received Import Request.
   Time since last request: 0.000020 seconds.
-  path: Assets/Kawaii Slime/Materials/Face/Face 3.mat
-  artifactKey: Guid(5b87a972518a3154aa254612d431fa98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Kawaii Slime/Materials/Face/Face 3.mat using Guid(5b87a972518a3154aa254612d431fa98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00d3eea99b72002897e025c00c586314') in 0.011126 seconds 
+  path: Assets/Homeless/UI Assets/Item_Icons/UI_Icon_scroll.png
+  artifactKey: Guid(166b89c253b5c5f42823a753d2db9770) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Homeless/UI Assets/Item_Icons/UI_Icon_scroll.png using Guid(166b89c253b5c5f42823a753d2db9770) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a47dbe93cc6a4dcc8f02d7daa8878688') in 0.028825 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 468.519191 seconds.
-  path: Assets/Kawaii Slime/Textures/Face/Face_02.psd
-  artifactKey: Guid(a199070e943674e4fb723dd5bfedfa91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Kawaii Slime/Textures/Face/Face_02.psd using Guid(a199070e943674e4fb723dd5bfedfa91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8853efa8f5903cb20599e27e60a5d10d') in 0.026536 seconds 
+  Time since last request: 0.000020 seconds.
+  path: Assets/Homeless/UI Assets/Item_Icons/UI_Icon_Gem.png
+  artifactKey: Guid(96df5282e804a6f488e4b55e33dbbef2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Homeless/UI Assets/Item_Icons/UI_Icon_Gem.png using Guid(96df5282e804a6f488e4b55e33dbbef2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fbb5a298a104e8a0e1642316b23c55dc') in 0.021811 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000022 seconds.
-  path: Assets/Kawaii Slime/Textures/Face/Face_03.psd
-  artifactKey: Guid(2e0e5994249a31640bf4045362e1333e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Kawaii Slime/Textures/Face/Face_03.psd using Guid(2e0e5994249a31640bf4045362e1333e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f177636ed4537027aea4d4f1faf426f8') in 0.011371 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 28.575362 seconds.
-  path: Assets/JellyMonsters/Models/Materials/B.mat
-  artifactKey: Guid(bd00b7fcb43be0e48a7f830a49a691ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/JellyMonsters/Models/Materials/B.mat using Guid(bd00b7fcb43be0e48a7f830a49a691ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f59c24a47bdf8465720c36e3ddaaeaf8') in 0.013055 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000024 seconds.
-  path: Assets/JellyMonsters/Materials/BoxContainer.mat
-  artifactKey: Guid(bfe4f8d1c8871d64f907f7cf258f0cc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/JellyMonsters/Materials/BoxContainer.mat using Guid(bfe4f8d1c8871d64f907f7cf258f0cc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4df9a7b9c02a8069ea41e945bc178b52') in 0.058326 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 43.273910 seconds.
-  path: Assets/Kawaii Slime/Textures/Slime_03.psd
-  artifactKey: Guid(3bb9fa0d8d0293e4cadb088c2ca595fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Kawaii Slime/Textures/Slime_03.psd using Guid(3bb9fa0d8d0293e4cadb088c2ca595fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0626fa2e02113f24945b0b7fdf03740') in 0.015307 seconds 
+  Time since last request: 0.000034 seconds.
+  path: Assets/Homeless/UI Assets/Item_Icons/UI_Icon_Potion_2.png
+  artifactKey: Guid(eca1954e3092f6c468c69c10d19a6413) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Homeless/UI Assets/Item_Icons/UI_Icon_Potion_2.png using Guid(eca1954e3092f6c468c69c10d19a6413) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '073dadcaa45da682a769b94d6b33a5a3') in 0.044463 seconds 
 Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
 AssetImportWorker is now disconnected from the server
 Process exiting
