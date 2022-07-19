@@ -350,6 +350,7 @@
 -r:"Library/Bee/artifacts/1900b0aEDbg.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aEDbg.dag/UnityEngine.UI.ref.dll"
 "Assets/Animator & BlendTree/Script/AnimationAction.cs"
+"Assets/Animator & BlendTree/Script/BlandAnimation.cs"
 -langversion:9.0
 
 /deterministic
