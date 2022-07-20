@@ -351,6 +351,7 @@
 -r:"Library/Bee/artifacts/1900b0aEDbg.dag/UnityEngine.UI.ref.dll"
 "Assets/Animator & BlendTree/Script/AnimationAction.cs"
 "Assets/Animator & BlendTree/Script/BlandAnimation.cs"
+"Assets/NavMesh Agent/Script/Controller.cs"
 -langversion:9.0
 
 /deterministic
