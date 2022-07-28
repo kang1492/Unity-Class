@@ -1,3 +1,4 @@
+<<<<<<< HEAD:Class/Library/PackageCache/com.unity.collab-proxy@1.15.18/Editor/PlasticSCM/Views/History/HistoryListView.cs
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -396,3 +397,5 @@ namespace Unity.PlasticSCM.Editor.Views.History
         readonly string mWkPath;
     }
 }
+=======
+>>>>>>> 11145a567cd862dce8ffefbb92a80a75add52640:Class/Library/PackageCache/com.unity.collab-proxy@1.15.16/Editor/PlasticSCM/Views/History/HistoryListView.cs

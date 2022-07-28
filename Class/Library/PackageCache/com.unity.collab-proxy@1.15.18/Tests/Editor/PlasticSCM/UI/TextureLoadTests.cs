@@ -1,3 +1,4 @@
+<<<<<<< HEAD:Class/Library/PackageCache/com.unity.collab-proxy@1.15.18/Tests/Editor/PlasticSCM/UI/TextureLoadTests.cs
 ﻿using NUnit.Framework;
 
 using UnityEngine;
@@ -40,3 +41,5 @@ namespace Unity.PlasticSCM.Tests.Editor.UI
         }
     }
 }
+=======
+>>>>>>> 11145a567cd862dce8ffefbb92a80a75add52640:Class/Library/PackageCache/com.unity.collab-proxy@1.15.16/Tests/Editor/PlasticSCM/UI/TextureLoadTests.cs

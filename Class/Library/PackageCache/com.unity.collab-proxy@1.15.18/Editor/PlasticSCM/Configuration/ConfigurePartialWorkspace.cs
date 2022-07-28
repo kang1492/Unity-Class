@@ -14,20 +14,4 @@ namespace Unity.PlasticSCM.Editor.Configuration
     {
         internal static void AsFullyChecked(WorkspaceInfo wkInfo)
         {
-            string rootPath = WorkspacePath.GetWorkspacePathFromCmPath(
-                wkInfo.ClientPath, "/", Path.DirectorySeparatorChar);
-
-            WorkspaceTreeNode rootWkNode = CmConnection.Get().GetWorkspaceTreeHandler().
-                WkGetWorkspaceTreeNode(rootPath);
-
-            FullyCheckedDirectory rootDirectory = new FullyCheckedDirectory();
-            rootDirectory.MountId = MountPointId.WORKSPACE_ROOT;
-            rootDirectory.ItemId = rootWkNode.RevInfo.ItemId;
-
-            List<FullyCheckedDirectory> directoryList = new List<FullyCheckedDirectory>();
-            directoryList.Add(rootDirectory);
-
-            FullyCheckedDirectoriesStorage.Save(wkInfo, directoryList);
-        }
-    }
-}
+            string rootPath = WorkspacePath.GetWorkspac

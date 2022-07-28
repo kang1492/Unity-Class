@@ -1,3 +1,4 @@
+<<<<<<< HEAD:Class/Library/PackageCache/com.unity.collab-proxy@1.15.18/Editor/PlasticSCM/AssetOverlays/DrawAssetOverlay.cs
 ﻿using System;
 
 using UnityEditor;
@@ -229,3 +230,5 @@ namespace Unity.PlasticSCM.Editor.AssetsOverlays
     }
 }
 
+=======
+>>>>>>> 11145a567cd862dce8ffefbb92a80a75add52640:Class/Library/PackageCache/com.unity.collab-proxy@1.15.16/Editor/PlasticSCM/AssetOverlays/DrawAssetOverlay.cs

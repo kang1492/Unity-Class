@@ -1,3 +1,4 @@
+<<<<<<< HEAD:Class/Library/PackageCache/com.unity.collab-proxy@1.15.18/package.json
 {
   "name": "com.unity.collab-proxy",
   "displayName": "Version Control",
@@ -36,3 +37,5 @@
     "revision": "611215dcd30048fa921b4be160048bad4022d65f"
   }
 }
+=======
+>>>>>>> 11145a567cd862dce8ffefbb92a80a75add52640:Class/Library/PackageCache/com.unity.collab-proxy@1.15.16/package.json
