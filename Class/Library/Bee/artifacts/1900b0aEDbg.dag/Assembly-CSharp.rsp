@@ -352,6 +352,9 @@
 "Assets/Animator & BlendTree/Script/AnimationAction.cs"
 "Assets/Animator & BlendTree/Script/BlandAnimation.cs"
 "Assets/NavMesh Agent/Script/Controller.cs"
+"Assets/Time Delay/Script/Example.cs"
+"Assets/Time Delay/Script/Switching.cs"
+"Assets/Time Delay/Script/Various.cs"
 -langversion:9.0
 
 /deterministic
