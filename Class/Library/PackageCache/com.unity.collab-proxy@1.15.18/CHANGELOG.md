@@ -1,4 +1,3 @@
-<<<<<<< HEAD:Class/Library/PackageCache/com.unity.collab-proxy@1.15.18/CHANGELOG.md
 # Changelog
 All notable changes to this package will be documented in this file.
 
@@ -425,5 +424,3 @@ This is the first release of *Unity Package CollabProxy*.
 - Collab history and toolbar windows
 - Collab view and presenter classes
 - Collab Editor tests for view and presenter
-=======
->>>>>>> 11145a567cd862dce8ffefbb92a80a75add52640:Class/Library/PackageCache/com.unity.collab-proxy@1.15.16/CHANGELOG.md

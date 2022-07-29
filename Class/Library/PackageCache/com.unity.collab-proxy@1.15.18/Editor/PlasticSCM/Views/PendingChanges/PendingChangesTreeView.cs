@@ -1,4 +1,3 @@
-<<<<<<< HEAD:Class/Library/PackageCache/com.unity.collab-proxy@1.15.18/Editor/PlasticSCM/Views/PendingChanges/PendingChangesTreeView.cs
 ﻿using System.Collections.Generic;
 using System.IO;
 using System.Linq;
@@ -887,5 +886,3 @@ namespace Unity.PlasticSCM.Editor.Views.PendingChanges
         readonly WorkspaceInfo mWkInfo;
     }
 }
-=======
->>>>>>> 11145a567cd862dce8ffefbb92a80a75add52640:Class/Library/PackageCache/com.unity.collab-proxy@1.15.16/Editor/PlasticSCM/Views/PendingChanges/PendingChangesTreeView.cs

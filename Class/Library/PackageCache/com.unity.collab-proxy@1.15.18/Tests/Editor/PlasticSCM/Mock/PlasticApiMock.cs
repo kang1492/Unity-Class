@@ -1,4 +1,3 @@
-<<<<<<< HEAD:Class/Library/PackageCache/com.unity.collab-proxy@1.15.18/Tests/Editor/PlasticSCM/Mock/PlasticApiMock.cs
 ﻿using System;
 using System.Collections;
 using System.Collections.Generic;
@@ -1056,5 +1055,3 @@ namespace Unity.PlasticSCM.Tests.Editor.Mock
             new Dictionary<string, WorkspaceTreeNode>();
     }
 }
-=======
->>>>>>> 11145a567cd862dce8ffefbb92a80a75add52640:Class/Library/PackageCache/com.unity.collab-proxy@1.15.16/Tests/Editor/PlasticSCM/Mock/PlasticApiMock.cs

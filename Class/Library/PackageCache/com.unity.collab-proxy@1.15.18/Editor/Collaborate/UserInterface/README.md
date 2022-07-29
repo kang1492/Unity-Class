@@ -15,4 +15,10 @@ The `TestWindows/` directory contains testing windows and is not present in rele
 
 `Bootstrap.cs` provides the code to initialize the toolbar button on start up.
 
-`CollaborateWindow.cs` is the entr
+`CollaborateWindow.cs` is the entry point for the user interface. It spawns a EditorWindow and sets up the UI.
+
+`ToolbarButton.cs` contains the code to create, update, and handle the collaborate button in the toolbar.
+
+`WindowCache.cs` provides a collection of fields that are preserved during domain reload and editor restart. Some
+examples are the the current commit message and the currently selected items for the simple UI/UX. Any data that would
+impact UX if lost during reload or exit, should be saved in here.
