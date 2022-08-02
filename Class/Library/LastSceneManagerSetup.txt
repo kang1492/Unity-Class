@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Base Class/Scenes/Base Class.unity
+- path: Assets/Joint/Scenes/Joint.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
