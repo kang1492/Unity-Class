@@ -352,6 +352,8 @@
 -r:"Library/Bee/artifacts/1900b0aEDbg.dag/Unity.VSCode.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aEDbg.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aEDbg.dag/UnityEngine.UI.ref.dll"
+"Assets/Animation Retargeting/Script/AnimationSpeed.cs"
+"Assets/Animation Retargeting/Script/DataSystem.cs"
 "Assets/Base Class/Scenes/Test.cs"
 "Assets/Cinemachine/Samples/Cinemachine/2.8.6/Cinemachine Example Scenes/Scenes/2D/LoseSightWhenTargetsFallsOffThePlatform.cs"
 "Assets/Cinemachine/Samples/Cinemachine/2.8.6/Cinemachine Example Scenes/Scenes/2D/MouseScrollZoom2D.cs"
